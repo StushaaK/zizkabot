@@ -1,0 +1,12 @@
+/* 
+    In order for the bot to function corectly
+    Create config.json file in the root directory
+    with the object structure shown below and fill in your information
+*/
+
+{
+    "prefix": "!", // Your prefered prefix for the bot
+    "token": "Replace with Discord bot token", // Your DISCORD bot token
+    "yt_api": "Replace with yt_api" // Your youtube-api for music part of the bot
+}
+  
